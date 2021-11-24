@@ -59,6 +59,6 @@ Still, simple steps are -
 
 ## Screenshots of output - 
 
-[Output-1](https://github.com/Apurva-official/Task_6/blob/feature/1.png)
-[Output-2](https://github.com/Apurva-official/Task_6/blob/feature/2.png)
-[Output-3](https://github.com/Apurva-official/Task_6/blob/feature/3.png)
+![Output-1](https://github.com/Apurva-official/Task_6/blob/feature/1.png)
+![Output-2](https://github.com/Apurva-official/Task_6/blob/feature/2.png)
+![Output-3](https://github.com/Apurva-official/Task_6/blob/feature/3.png)
