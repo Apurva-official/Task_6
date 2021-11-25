@@ -43,6 +43,7 @@ The another condition is to make a **scroll back-to-top** button at the very end
 
 3. Too much contrast has been avoided as colors and theme are chosen to sooth the eyes and focus of user.
 
+### Live demo of the webpage at [Task6_live_demo](https://apurva-official.github.io/task_6_liveDemo/)
 
 ### How to run the project after cloning / forking -
 
