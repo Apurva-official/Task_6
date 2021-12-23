@@ -43,9 +43,7 @@ The another condition is to make a **scroll back-to-top** button at the very end
 
 3. Too much contrast has been avoided as colors and theme are chosen to sooth the eyes and focus of user.
 
-### Link to the project - 
-
-**The project has already been hosted on _Github_**. Hence, you can view the project on given link - [Task6_URL](https://)
+### Live demo of the webpage at [Task6_live_demo](https://apurva-official.github.io/task_6_liveDemo/)
 
 ### How to run the project after cloning / forking -
 
@@ -59,6 +57,6 @@ Still, simple steps are -
 
 ## Screenshots of output - 
 
-[Output-1](https://)
-[Output-2](https://)
-[Output-3](https://)
+![Output-1](https://github.com/Apurva-official/Task_6/blob/feature/1.png)
+![Output-2](https://github.com/Apurva-official/Task_6/blob/feature/2.png)
+![Output-3](https://github.com/Apurva-official/Task_6/blob/feature/3.png)
